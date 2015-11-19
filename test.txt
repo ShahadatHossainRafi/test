@@ -4,3 +4,4 @@ Second line edited from server.
 New line added.
 Sixth line added
 Added fith line from server.
+Added 7th line
