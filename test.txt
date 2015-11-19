@@ -1,3 +1,4 @@
 An empty test file is created.
-second line edited
-Second line edited from server
+second line edited.
+Second line edited from server.
+New line added.
